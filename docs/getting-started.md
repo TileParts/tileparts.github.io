@@ -8,9 +8,10 @@
 
 ## 规范
 
-详见：[模块规范](/spec.html)。
+TILE 以 20mm × 20mm 为基本单位设计模块。这使得模块可以整齐地被固定在基板上。
+
+详见：[规范](/spec/)。
 
 ## 通用模块
 
-* [0102 - USB-C 开关](/modules/0102_USB-C_V1.html)
-* [0102 - DAPLink](/modules/0102_DAPLINK_V1.html)
+* [#0102 - TILEDAP](/modules/0102-TILEDAP.html)
