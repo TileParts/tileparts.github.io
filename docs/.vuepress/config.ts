@@ -4,7 +4,7 @@ export default defineConfig(ctx => ({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'TILE',
+      title: 'TileParts',
       description: '模块化硬件原型开发方案',
     },
   },
