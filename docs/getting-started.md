@@ -16,11 +16,12 @@ TileParts 以 20mm × 20mm 为基本单位设计模块。这使得模块尺寸�
 
 ## 通用模块
 
-* _(打样中)_ [#0102 - USB-SWITCH](#) - 一个 USB 转接器，附带自锁开关和 LED 指示灯，便于快速上下电而不需要重新插拔设备
-* _(打样中)_ [#0102 - TILEDAP](#) - 一个 DAPLink 调试器，附带 USB-UART 桥接功能
-* _(设想中)_ [#0101 - PUSH](#) - 一个简易的 8.5mm 开关，附带 LED 指示灯
-* _(设想中)_ [#0101 - SERIAL-CH343](#) - 基于 CH343 的 USB-UART 转接器
-* _(设想中)_ [#0101 - SERIAL-CP2102N](#) - 基于 CP2102N 的 USB-UART 转接器，并且附带 ESP32 兼容的自动烧录电路
+* [#0101 - CLIP](https://github.com/TileParts/0101-CLIP) - 一个普通的夹子，用于固定飞线
+* [#0102 - TILEDAP](https://github.com/TileParts/0102-TILEDAP) _(打样中)_ - 一个 DAPLink 调试器，附带 USB-UART 桥接功能
+* #0102 - USB-SWITCH _(打样中)_ - 一个 USB 转接器，附带自锁开关和 LED 指示灯，便于快速上下电而不需要重新插拔设备
+* #0101 - PUSH _(设想中)_ - 一个简易的 8.5mm 开关，附带 LED 指示灯
+* #0101 - SERIAL-CH343 _(设想中)_ - 基于 CH343 的 USB-UART 转接器
+* #0101 - SERIAL-CP2102N _(设想中)_ - 基于 CP2102N 的 USB-UART 转接器，并且附带 ESP32 兼容的自动烧录电路
 
 ## 开源
 
