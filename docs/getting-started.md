@@ -17,6 +17,7 @@ TileParts 以 20mm × 20mm 为基本单位设计模块。这使得模块尺寸�
 ## 通用模块
 
 * [#0101 - CLIP](https://github.com/TileParts/0101-CLIP) - 一个普通的夹子，用于固定飞线
+* [#0101 - HOTSWAP-KEY](https://github.com/TileParts/0101-HOTSWAP-KEY) _(打样中)_ - 一个机械键盘热插拔轴座的转接板
 * [#0102 - TILEDAP](https://github.com/TileParts/0102-TILEDAP) _(打样中)_ - 一个 DAPLink 调试器，附带 USB-UART 桥接功能
 * #0102 - USB-SWITCH _(打样中)_ - 一个 USB 转接器，附带自锁开关和 LED 指示灯，便于快速上下电而不需要重新插拔设备
 * #0101 - PUSH _(设想中)_ - 一个简易的 8.5mm 开关，附带 LED 指示灯
