@@ -12,4 +12,4 @@ TileParts 设计了一些通用模块。如无特别指出，它们皆以 [CERN-
 * #0101 - SERIAL-CH343 _(设想中)_ - 基于 CH343 的 USB-UART 转接器
 * #0101 - SERIAL-CP2102N _(设想中)_ - 基于 CP2102N 的 USB-UART 转接器，并且附带 ESP32 兼容的自动烧录电路
 * [#0102 - TILEDAP](https://github.com/TileParts/0102-TILEDAP) _(打样中)_ - 一个 DAPLink 调试器，附带 USB-UART 桥接功能
-* #0102 - USB-SWITCH _(打样中)_ - 一个 USB 转接器，附带自锁开关和 LED 指示灯，便于快速上下电而不需要重新插拔设备
+* [#0102 - USB-SWITCH](https://github.com/TileParts/0102-USB-SWITCH) _(打样中)_ - 一个 USB 转接器，附带自锁开关和 LED 指示灯，便于快速上下电而不需要重新插拔设备
