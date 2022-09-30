@@ -4,6 +4,8 @@
 
 TileParts 设计了一些通用模块。如无特别指出，它们皆以 [CERN-OHL-P-2.0](https://spdx.org/licenses/CERN-OHL-P-2.0.html) 协议开源。你可以自行进入对应项目仓库的 Releases 页面下载 Gerber/BOM/坐标文件打样。此外，你也可以根据[规范](/spec/)自行设计兼容的模块。
 
+通用模块的进度请参见[看板](https://trello.com/b/rt251RdG/tileparts)。
+
 ## 模块列表
 
 * [#0101 - CLIP](https://github.com/TileParts/0101-CLIP) - 一个普通的夹子，用于固定飞线
