@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /hero.png
 features:
 - title: 模块化
   details: 以最小完整功能为单位设计可复用模块。
