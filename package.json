@@ -4,6 +4,8 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
     "vuepress": "^1.9.7"
   }
 }
